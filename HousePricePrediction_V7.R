@@ -44,8 +44,6 @@ GetAllNA <- function (df) {
 #################
 ###Data Import###
 #################
-#Set working directory
-#setwd("C:\\Users\\taku0\\OneDrive\\??????????????????\\FL21\\BAT 3305 - Machine Learning\\Data")
 #Read data.
 data_original <- read.csv("HousePricesCompleteData.csv")
 #Copy the original data into working data so we have memory of both.
